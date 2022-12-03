@@ -2,7 +2,7 @@
 
 **NCKRL**, negative triple confidence for knowledge representation learning, is an extended model of TransE and enhanced version of CKRL. The concept of negative triple confidence can generate high quality negative triplets to some extent, which were used to support model training for detecting noises in knowledge graph, while learning robust knowledge representations simultaneously.
 
-#If this code helps with your studies, please kindly cite the following publication:
+## If this code helps with your studies, please kindly cite the following publication:
 @inproceedings{shan2018confidence,
   title={Confidence-aware negative sampling method for noisy knowledge graph embedding},
   author={Shan, Yingchun and Bu, Chenyang and Liu, Xiaojian and Ji, Shengwei and Li, Lei},
